@@ -1,0 +1,33 @@
+--------------------
+BDMEP - INMET
+--------------------
+Estação           : OBIDOS - PA (OMM: 82178)
+Latitude  (graus) : -1.91
+Longitude (graus) : -55.51
+Altitude  (metros): 37.00
+Estação Operante
+Inicio de operação: 01/01/1927
+Periodo solicitado dos dados: 01/01/1927 a 03/01/2018
+Os dados listados abaixo são os que encontram-se digitados no BDMEP
+Hora em UTC
+--------------------
+Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
+      Para o formato planilha XLS, siga as instruções
+
+
+--------------------
+BDMEP - INMET
+--------------------
+Estação           : BELTERRA - PA (OMM: 82246)
+Latitude  (graus) : -2.63
+Longitude (graus) : -54.95
+Altitude  (metros): 175.74
+Estação Operante
+Inicio de operação: 01/08/1971
+Periodo solicitado dos dados: 01/01/1971 a 01/03/2018
+Os dados listados abaixo são os que encontram-se digitados no BDMEP
+Hora em UTC
+--------------------
+Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
+      Para o formato planilha XLS, siga as instruções
+--------------------
